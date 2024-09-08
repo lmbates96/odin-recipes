@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(255, 255, 213);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+ 
+ul {
+    list-style-type: none;
+ }
+
+ h1, h2, h3 {
+    font-family: cursive;
+ }
+
+ ol {
+    list-style: square;
+    list-style-position: inside;
+ }
+ 
+ h1 {
+    font-size: 60px;
+ }
+
+ h2 {
+    font-size: 40px;
+ }
