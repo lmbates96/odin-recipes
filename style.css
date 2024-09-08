@@ -1,0 +1,22 @@
+img { 
+    height: auto;
+    width: 180px;
+}
+
+body {
+    background-color: rgb(255, 255, 213);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+a {
+    font-size: 18px;
+    color: rgb(24, 201, 255);
+}
+
+h1 {
+    font-size: 64px;
+    font-style: italic;
+    font-family: cursive, sans-serif;
+}
