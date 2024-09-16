@@ -5,18 +5,28 @@ img {
 
 body {
     background-color: rgb(255, 255, 213);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 
 a {
-    font-size: 18px;
-    color: rgb(24, 201, 255);
+    color:  rgb(196, 121, 10);
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 {
+    text-decoration:underline;
     font-size: 64px;
     font-style: italic;
-    font-family: cursive, sans-serif;
+    font-family:cursive, sans-serif;
+    color:  rgb(196, 121, 10);
+    background-color:rgba(255, 218, 96, 0.5);
+    padding: 8px;
+    border: 2px;
+    border-style:solid;
+    border-color: rgb(196, 121, 10);
+    margin-left:5em;
+    margin-right: 5em;
 }
+

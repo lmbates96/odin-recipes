@@ -1,26 +1,42 @@
 
 body {
     background-color: rgb(255, 255, 213);
+    font-size: 18px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color:  rgb(196, 121, 10);
 }
  
 ul {
+   margin-left: -2em;
     list-style-type: none;
  }
 
  h1, h2, h3 {
     font-family: cursive;
+    text-decoration: underline;
+    color: rgb(241, 130, 25);
  }
 
  ol {
+   margin-left: -2em;
     list-style: square;
     list-style-position: inside;
  }
  
  h1 {
-    font-size: 60px;
- }
+   font-size: 64px;
+   font-style: italic;
+   font-family: cursive, sans-serif;
+   color:  rgb(196, 121, 10);
+   background-color:rgba(255, 218, 96, 0.5);
+   padding: 8px;
+   border: 2px;
+   border-style:solid;
+   border-color: rgb(196, 121, 10);
+   margin-left:5em;
+   margin-right: 5em;
+}
 
  h2 {
     font-size: 40px;
